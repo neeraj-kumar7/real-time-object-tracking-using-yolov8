@@ -74,6 +74,10 @@ pip install ultralytics
 <details open>
 <summary>Usage</summary>
 
+#### Tracking using Webcam
+
+Run test.py file
+
 #### CLI
 
 YOLOv8 may be used directly in the Command Line Interface (CLI) with a `yolo` command:
