@@ -74,7 +74,7 @@ pip install ultralytics
 <details open>
 <summary>Usage</summary>
 
-####Tracking using Webcam
+#### Tracking using Webcam
 
 Run test.py file
 
